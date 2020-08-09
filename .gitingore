@@ -1,7 +1,6 @@
 *.iml
 target/
 output/
-bin
 *.log
 out/
 umbrella/target/
@@ -13,6 +12,6 @@ umbrella/target/
 .settings
 target
 logs
-.idea
+.idea/
 __MACOSX
 log
